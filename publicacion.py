@@ -1,7 +1,7 @@
 
 import time
 from paho.mqtt import client as mqtt_client
-
+#otro comentario
 broker = 'mqttdashboard.com'
 port = 1883
 topic = "/44550153g/taller2"
