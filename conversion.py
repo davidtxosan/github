@@ -3,7 +3,7 @@ import time
 from paho.mqtt import client as mqtt_client
 import pymongo
 import itertools
-# comentario de pruebaaaaaaaaaaaaaaaaa
+# comentario borrado
 broker = 'mqttdashboard.com'
 port = 1883
 topic = "/44550153g/taller2"
