@@ -1,5 +1,5 @@
 import pymongo
-
+#otro comentario
 myclient = pymongo.MongoClient( "mongodb://localhost:27017/")
 mydb = myclient["bbdd2"]
 mycol = mydb["Clientes"]
