@@ -4,7 +4,7 @@ from paho.mqtt import client as mqtt_client
 
 broker = 'mqttdashboard.com'
 port = 1883
-topic = "/44550153g/taller2"
+topic = "/dni/taller2"
 client_id = 'david'
 
 def connect_mqtt():
