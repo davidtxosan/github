@@ -6,7 +6,7 @@ import pymongo
 
 broker = 'mqttdashboard.com'
 port = 1883
-topic = "/44550153g/moduloD2"
+topic = "/dni/moduloD2"
 client_id = 'david'
 #datos conexion MongoDB , base de datos y colección
 
