@@ -5,7 +5,7 @@ import time
 import paho.mqtt.client
 broker = 'mqttdashboard.com'
 port = 1883
-topic = "/44550153g/taller2"
+topic = "/dni/taller2"
 client_id = 'david'
  
 def on_connect(client, userdata, flags, rc):
