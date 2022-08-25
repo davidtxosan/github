@@ -5,7 +5,7 @@ import itertools
 
 broker = 'mqttdashboard.com'
 port = 1883
-topic = "/44550153g/taller2"
+topic = "/dni/taller2"
 client_id = 'david'
 
 myclient = pymongo.MongoClient("mongodb://localhost:27017/")
